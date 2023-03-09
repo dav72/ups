@@ -58,5 +58,5 @@ Code | Description
    *   Provide UPS shipment tracking experience like Amazon
    *   Push UPS  notifications of package update with webhook
    *   Verify UPS delivery exception before it is too late
-   *   ups store locator at [ups near me] (https://usps-track.us/ups-store/)
+   *   ups store locator at [ups near me](https://usps-track.us/ups-store/)
 

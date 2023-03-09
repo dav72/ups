@@ -3,9 +3,8 @@ UPS tracking API and webhook make it easy to integrate UPS Tracking function int
 
 ### API key
 
-In order to use this API, you need to generate a UPS Tracking  API key in the [TrackingMore](https://www.trackingmore.com).
-Apply for free use of API. https://www.trackingmore.com/apply-api.html
-
+In order to use this API, you need to generate a UPS Tracking  API key in the [ups](https://usps-track.us/ups/).
+Apply for free use of API. 
 ### List of Tracking Status
 
 String | Description 
@@ -53,10 +52,11 @@ Code | Description
 503	|Service Unavailable - The service is temporary unavailable (e.g. scheduled Platform Maintenance). Try again later.
 
 ------------------------------------------------------------------------------------------------------------------
-[TrackingMore](https://www.trackingmore.com) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating trackingmore API.Check the courier code.  use  UPS Tracking API of Trackingmore  allows eCommerce developers in any sizes to add package tracking fuction easily. Use [UPS Tracking API](https://www.trackingmore.com/ups-tracking.html)  to:
+[UPS Tracking](https://usps-track.us/ups/) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating ups tracker API.Check the courier code.  use  UPS Tracking API of Trackingmore  allows eCommerce developers in any sizes to add package tracking fuction easily. Use [UPS Tracking API](https://usps-track.us/ups/)  to:
 
    *   Get UPS realtime tracking info of muti-carriers in one integration
    *   Provide UPS shipment tracking experience like Amazon
    *   Push UPS  notifications of package update with webhook
    *   Verify UPS delivery exception before it is too late
+   *   ups store locator at [ups near me] (https://usps-track.us/ups-store/)
 
